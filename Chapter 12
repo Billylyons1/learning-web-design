@@ -10,11 +10,13 @@
     </head>
  @@ -26,7 +21,9 @@ h2{
   p, dl{
-  font-size: .875em;  
+  dt{
+    font-weight: bold;
   }
  -
- +dt{
- +  font-weight: bold;
+ +strong{font-style: italic;
  +}
-  
   </style>
+
+  
+  
